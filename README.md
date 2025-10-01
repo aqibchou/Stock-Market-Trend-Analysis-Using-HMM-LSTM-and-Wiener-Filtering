@@ -144,10 +144,6 @@ model.fit(X, lengths)
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Original HMM-LSTM implementation adapted for US markets
@@ -164,5 +160,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Note**: This model is for educational and research purposes. Always conduct thorough backtesting before using in live trading.
+**Note**: This model is for educational and research purposes. Always conduct thorough backtesting before implementing a strategy on top of this and using in live trading.
 
