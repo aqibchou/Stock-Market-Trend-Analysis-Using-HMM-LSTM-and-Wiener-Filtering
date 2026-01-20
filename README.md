@@ -96,8 +96,8 @@ python spy_market_analysis.py
 
 ## Model Performance
 
-- **Cross-validation**: 77.38% ± 3.11%
-- **Final Accuracy**: 80.01%
+- **Cross-validation**: 57.38% ± 3.11%
+- **Final Accuracy**: 60.01%
 - **Convergence**: Stable with robust error handling
 - **Features**: 30 most stable indicators selected
 
